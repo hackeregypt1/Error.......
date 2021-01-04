@@ -1,0 +1,23 @@
+@echo off
+start facebook
+start Google
+start YouTube
+start main
+
+mkdir v
+mkdir k
+mkdir w
+mkdir h
+mkdir kl 
+mkdir as
+mkdir dsf
+mkdir  fg
+mkdir dsf
+mkdir dasd
+mkdir das
+mkdir dsad
+mkdir dsad 
+mkdir gdsfg
+mkdir gdsfg
+mkdir gdsfg
+mkdir sdfsdf
